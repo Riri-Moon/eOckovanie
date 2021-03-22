@@ -56,13 +56,13 @@ namespace eOckovanieData.Library.DataAccess
 
             var T = new
             {
-                DoctorId = model.DoctrorId,
+                DoctorId = model.DocId,
                 UserId = model.UserId,
                 Time1 = model.Time1,
                 Time2 = model.Time2,
                 Status = model.Status,
                 Location = model.Location,
-                VaccineId = model.VaccineId,
+                VaccineId = model.VacId,
                 Date = model.Date
 
             };
