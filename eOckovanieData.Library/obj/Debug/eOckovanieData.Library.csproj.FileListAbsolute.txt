@@ -1,0 +1,11 @@
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\bin\Debug\eOckovanieData.Library.dll
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\bin\Debug\eOckovanieData.Library.pdb
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\bin\Debug\Dapper.dll
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\bin\Debug\Dapper.xml
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\obj\Debug\eOckovanieData.Library.csproj.CoreCompileInputs.cache
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\obj\Debug\eOckovanieData.Library.csproj.CopyComplete
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\obj\Debug\eOckovanieData.Library.dll
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\obj\Debug\eOckovanieData.Library.pdb
+C:\Users\Richard Baricic\source\repos\eOckovanieData.Library\obj\Debug\eOckovanieData.Library.csprojAssemblyReference.cache
