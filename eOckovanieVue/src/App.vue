@@ -1,20 +1,32 @@
 <template>
     <div id="app">
-        <Home msg="Hello world!" />
+        <SignIn />
     </div>
 </template>
 
-<script>
-    import Home from './components/Home.vue';
+<script>import SignIn from './components/SignIn.vue'
 
-    export default {
-        name: 'app',
-        components: {
-            Home
-        }
-    };
-</script>
+export default {
+  name: 'app',
+  components: {
+    SignIn
+  }
+}</script>
 
-<style>
+<style lang="scss">
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    #app {
+        font-family: Tahoma;
+        font-size: 1.6rem;
+        color: #222;
+        background-color: #092525;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 </style>
-
