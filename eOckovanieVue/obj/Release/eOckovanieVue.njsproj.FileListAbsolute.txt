@@ -1,3 +1,0 @@
-C:\Users\nickb\Documents\GitHub\eOckovanie\eOckovanieVue\obj\Release\eOckovanieVue.njsprojAssemblyReference.cache
-C:\Users\nickb\Documents\GitHub\eOckovanie\eOckovanieVue\obj\Release\eOckovanieVue.njsproj.CoreCompileInputs.cache
-C:\Users\nickb\Documents\GitHub\eOckovanie\eOckovanieVue\bin\Microsoft.NodejsTools.WebRole.dll
