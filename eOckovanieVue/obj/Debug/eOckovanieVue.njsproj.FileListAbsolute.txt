@@ -1,6 +1,0 @@
-C:\Users\nickb\Documents\GitHub\eOckovanie\eOckovanieVue\obj\Debug\eOckovanieVue.njsprojAssemblyReference.cache
-C:\Users\nickb\Documents\GitHub\eOckovanie\eOckovanieVue\obj\Debug\eOckovanieVue.njsproj.CoreCompileInputs.cache
-C:\Users\nickb\Documents\GitHub\eOckovanie\eOckovanieVue\bin\Microsoft.NodejsTools.WebRole.dll
-C:\Users\Richard Baricic\source\eOckovanie\eOckovanieVue\obj\Debug\eOckovanieVue.njsprojAssemblyReference.cache
-C:\Users\Richard Baricic\source\eOckovanie\eOckovanieVue\obj\Debug\eOckovanieVue.njsproj.CoreCompileInputs.cache
-C:\Users\Richard Baricic\source\eOckovanie\eOckovanieVue\bin\Microsoft.NodejsTools.WebRole.dll
